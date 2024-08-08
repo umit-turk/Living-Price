@@ -1,4 +1,4 @@
-package com.livingprice.travelapp
+package com.livingprice
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
