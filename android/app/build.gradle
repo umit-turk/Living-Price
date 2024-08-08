@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.livingprice"
+    namespace "com.livingprice.travelapp"
     defaultConfig {
-        applicationId "com.livingprice"
+        applicationId "com.livingprice.travelapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

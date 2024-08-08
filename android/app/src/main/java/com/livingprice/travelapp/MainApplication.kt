@@ -1,4 +1,4 @@
-package com.livingprice
+package com.livingprice.travelapp
 
 import android.app.Application
 import com.facebook.react.PackageList
